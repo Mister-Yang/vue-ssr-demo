@@ -27,7 +27,7 @@
     <transition name="fade" mode="out-in">
       <router-view />
     </transition>
-    <button @click="notify">click me13333   nihao</button>
+    <button @click="notify">click me13333 zhendeamnihao</button>
     <!-- <notification content="test notify" /> -->
     <Footer></Footer>
   </div>
